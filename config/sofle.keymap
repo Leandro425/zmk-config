@@ -29,7 +29,7 @@
 &trans  &trans      &trans      &trans      &trans         &trans                           &trans         &trans        &trans        &trans         &trans        &trans
 &trans  &kp RA(S)   &kp RA(Q)   &kp RA(Y)   &kp RA(P)      &trans                           &kp LS(PIPE)   &kp LS(EXCL)  &kp LS(AMPS)  &kp LS(POUND)  &kp LS(DLLR)  &trans
 &trans  &kp LS(AT)  &kp LS(LT)  &kp LS(GT)  &kp LS(COLON)  &kp LS(TILDE)                    &kp LS(UNDER)  &kp LS(LPAR)  &kp LS(RPAR)  &kp LS(LBRC)   &kp LS(RBRC)  &trans
-&trans  &kp BSLH    &kp LC(X)   &kp LC(C)   &trans         &kp LC(V)      &trans    &trans  &trans         &kp CARET     &kp PERCENT   &kp GRAVE      &kp FSLH      &trans
+&trans  &kp BSLH    &kp LC(X)   &kp LC(C)   &kp LC(V)      &trans         &trans    &trans  &kp EQUAL      &kp CARET     &kp PERCENT   &kp GRAVE      &kp FSLH      &trans
                     &trans      &trans      &trans         &trans         &trans    &trans  &trans         &trans        &trans        &trans
             >;
         };
@@ -55,4 +55,3 @@
         };
     };
 };
-
